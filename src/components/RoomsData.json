@@ -1,0 +1,72 @@
+[
+    {
+        "room_number": 101,
+        "room_size": 2,
+        "room_category": "lux",
+        "is_booked": true,
+        "people_living": 2
+    },
+    {
+        "room_number": 102,
+        "room_size": 1,
+        "room_category": "default",
+        "is_booked": false,
+        "people_living": 0
+    },
+    {
+        "room_number": 103,
+        "room_size": 3,
+        "room_category": "luxury",
+        "is_booked": true,
+        "people_living": 2
+    },
+    {
+        "room_number": 104,
+        "room_size": 2,
+        "room_category": "mansard",
+        "is_booked": false,
+        "people_living": 0
+    },
+    {
+        "room_number": 105,
+        "room_size": 1,
+        "room_category": "lux",
+        "is_booked": true,
+        "people_living": 1
+    },
+    {
+        "room_number": 106,
+        "room_size": 4,
+        "room_category": "luxury",
+        "is_booked": true,
+        "people_living": 4
+    },
+    {
+        "room_number": 107,
+        "room_size": 2,
+        "room_category": "default",
+        "is_booked": false,
+        "people_living": 0
+    },
+    {
+        "room_number": 108,
+        "room_size": 1,
+        "room_category": "mansard",
+        "is_booked": true,
+        "people_living": 1
+    },
+    {
+        "room_number": 109,
+        "room_size": 3,
+        "room_category": "lux",
+        "is_booked": true,
+        "people_living": 3
+    },
+    {
+        "room_number": 110,
+        "room_size": 2,
+        "room_category": "default",
+        "is_booked": false,
+        "people_living": 0
+    }
+]
